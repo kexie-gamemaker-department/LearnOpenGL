@@ -1,0 +1,42 @@
+# Visual Studio 临时文件和配置
+.vs/
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# 编译输出目录
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# 编译生成的文件
+*.exe
+*.dll
+*.lib
+*.pdb
+*.idb
+*.ilk
+*.log
+
+# CMake 生成的中间文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 其他临时文件
+*.tmp
+*.user
+*.db
+*.opendb
+*.VC.db
+*.vsidx
+
+# 备份文件
+*~
+*.bak
