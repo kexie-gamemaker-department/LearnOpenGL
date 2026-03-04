@@ -7,7 +7,7 @@
 #include <sstream>
 #include <iostream>
 
-class Shader {
+class Shader { 
 public:
     // 着色器程序ID
     unsigned int ID;
